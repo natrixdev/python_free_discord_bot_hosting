@@ -37,7 +37,7 @@ Only for my Discord Server members !
 ## 🚀・Setup 
 
 ```sh-session
-> Go to my discord server and install 'hoster.zip' than extract it and run setup.sh before starting host.py !
+> Go to my discord server and install 'hoster.zip' than extract it and run 'setup.sh' before starting 'host.py' !
 ```
 
 ## 🎉・Upcoming/enhancements
