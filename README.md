@@ -5,7 +5,7 @@ Only for my Discord Server members !
 </h1>
 
 <p align="center">
-  The tool is only on my discord [server](https://discord.gg/CkmC7cUD8s)
+  The tool is only on my discord <a href="https://discord.gg/CkmC7cUD8s"> server
 </p>
 
 <p align="center"> 
@@ -22,9 +22,7 @@ Only for my Discord Server members !
 
 
 <h2 align="center">  
-   Free Hosting by //natrix\\
-  for :
-Love ❌ code ✅
+   Free Hosting by natrix
 
 </h2>
 
